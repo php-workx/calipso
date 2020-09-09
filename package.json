@@ -39,7 +39,7 @@
     "step": "0.0.x",
     "optimist":"0.2.x",
     "colors":"0.5.x",
-    "bcrypt": "0.2.x",
+    "bcrypt": "5.0.x",
     "semver":"1.0.x",
     "hook.io":"0.6.x",
     "zipfile":"0.2.x",
