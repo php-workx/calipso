@@ -34,7 +34,7 @@
     "qs": "0.3.x",
     "request":"2.0.1",
     "pool":"0.4.x",
-    "mime":"1.2.x",
+    "mime":"2.4.x",
     "cluster": "0.6.x",
     "step": "0.0.x",
     "optimist":"0.2.x",
