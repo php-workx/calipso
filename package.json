@@ -23,7 +23,7 @@
   "dependencies": {
     "express": "2.4.x",
     "connect": "1.6.x",
-    "ejs": "0.4.x",
+    "ejs": "3.1.x",
     "jade": "0.13.x",
     "stylus": "0.13.x",
     "underscore":"1.1.x",
